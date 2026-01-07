@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# testrtjdfgjdfgjdddfhdsfh
-=======
-# Я пытаюсь сделать изменения в github
 
->>>>>>> master
+# Я пытаюсь сделать изменения в github
+Merge branch 'master' into main
+
